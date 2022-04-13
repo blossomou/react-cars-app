@@ -17,3 +17,7 @@ yarn add @craco/craco
 ```sh
 yarn add styled-components twin.macro react-responsive
 ```
+
+```sh
+yarn add --dev @types/styled-components
+```
